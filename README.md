@@ -1,7 +1,7 @@
 # Calculate-the-Process-CPU-usage
 A shell script of the Calculate the process CPU usage
 
-@Parameter description
+@Parameter description:
 first parameter is the PID number
 second parameter is the Total time (unit:S)
 third parameter is the Calculated several times per every second (unit:S)
